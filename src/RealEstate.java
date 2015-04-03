@@ -15,7 +15,7 @@ import java.awt.event.ActionEvent;
 
 public class RealEstate {
 
-	private JFrame frame;
+	private JFrame  frame;
 	private JTextField txtLotNumber;
 	private JTextField txtFirstName;
 	private JTextField txtLastName;
